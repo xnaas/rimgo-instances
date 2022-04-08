@@ -35,7 +35,7 @@ status-website:
   introMessage: This status page monitors [rimgo instances](https://codeberg.org/video-prize-ranch/rimgo/src/branch/main/README.md#clearnet) for uptime.
   navbar:
     - title: Status
-      href: /
+      href: /rimgo-instances
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
