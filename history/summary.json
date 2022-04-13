@@ -40,19 +40,19 @@
     "url": "https://img.riverside.rocks",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "img-riverside-rocks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 31,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 141,
+    "timeDay": 210,
+    "timeWeek": 141,
+    "timeMonth": 141,
+    "timeYear": 141,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 6
     }
   },
   {
