@@ -40,9 +40,9 @@
     "url": "https://img.riverside.rocks",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "img-riverside-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "rimgo.totaldarkness.net",
@@ -59,19 +61,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1719,
     "timeDay": 410,
     "timeWeek": 1719,
     "timeMonth": 1719,
     "timeYear": 1719,
-    "dailyMinutesDown": {
-      "2022-04-13": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "rimgo.bus-hit.me",
