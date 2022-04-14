@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 291,
+    "timeDay": 193,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
@@ -58,19 +58,19 @@
     "url": "https://rimgo.totaldarkness.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1524,
-    "timeDay": 374,
+    "timeDay": 354,
     "timeWeek": 1524,
     "timeMonth": 1524,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2022-04-14": 9
+      "2022-04-14": 0
     }
   },
   {
