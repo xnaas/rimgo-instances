@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 563,
-    "timeWeek": 372,
+    "timeWeek": 384,
     "timeMonth": 372,
     "timeYear": 372,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 608,
-    "timeWeek": 504,
+    "timeWeek": 484,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 163,
-    "timeWeek": 147,
+    "timeWeek": 158,
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://rimgo.totaldarkness.net",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1423,
-    "timeDay": 385,
-    "timeWeek": 1423,
+    "timeDay": 360,
+    "timeWeek": 1695,
     "timeMonth": 1423,
     "timeYear": 1423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-15": 0
+    }
   },
   {
     "name": "rimgo.bus-hit.me",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 426,
-    "timeWeek": 352,
+    "timeWeek": 357,
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 161,
-    "timeWeek": 239,
+    "timeWeek": 214,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 446,
     "timeDay": 544,
-    "timeWeek": 446,
+    "timeWeek": 460,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {}
