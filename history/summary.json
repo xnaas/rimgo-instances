@@ -4,9 +4,9 @@
     "url": "https://i.bcow.xyz",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "i-bcow-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 417,
     "timeMonth": 396,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   },
   {
     "name": "rimgo.pussthecat.org",
@@ -59,14 +61,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1235,
     "timeDay": 193,
-    "timeWeek": 412,
+    "timeWeek": 423,
     "timeMonth": 1235,
     "timeYear": 1235,
     "dailyMinutesDown": {
