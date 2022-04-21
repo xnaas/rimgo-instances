@@ -59,14 +59,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 1872,
     "timeDay": 485,
-    "timeWeek": 2164,
+    "timeWeek": 2434,
     "timeMonth": 1872,
     "timeYear": 1872,
     "dailyMinutesDown": {
@@ -133,7 +133,7 @@
     "url": "https://i.actionsack.com",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "i-actionsack-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -144,6 +144,8 @@
     "timeWeek": 269,
     "timeMonth": 268,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   }
 ]
