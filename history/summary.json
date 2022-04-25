@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 390,
-    "timeWeek": 343,
+    "timeWeek": 358,
     "timeMonth": 377,
     "timeYear": 377,
     "dailyMinutesDown": {}
@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "img-riverside-rocks",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 196,
     "timeDay": 351,
     "timeWeek": 230,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2022-04-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "rimgo.totaldarkness.net",
@@ -61,14 +59,14 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "rimgo-totaldarkness-net",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "97.04%",
     "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 1694,
-    "timeDay": 1975,
-    "timeWeek": 2579,
+    "timeDay": 2508,
+    "timeWeek": 894,
     "timeMonth": 1694,
     "timeYear": 1694,
     "dailyMinutesDown": {
@@ -119,9 +117,9 @@
     "url": "https://rimgo.lunar.icu",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "rimgo-lunar-icu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +128,9 @@
     "timeWeek": 3238,
     "timeMonth": 1352,
     "timeYear": 1352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   },
   {
     "name": "i.actionsack.com",
