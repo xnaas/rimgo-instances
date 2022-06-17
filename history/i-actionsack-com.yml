@@ -1,7 +1,7 @@
 url: https://i.actionsack.com
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 123
-lastUpdated: 2022-06-16T23:02:10.548Z
+lastUpdated: 2022-06-17T05:21:16.775Z
 startTime: Fri Apr 08 2022 13:18:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
